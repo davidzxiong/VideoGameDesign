@@ -1,0 +1,6 @@
+- AI chase character, and attack when within distance.
+- Main Character has no health (it can’t be kill, current purpose is for easy debug)
+- Big Spider has health of 20, and small spider and Minion has health of 5.
+- Fireball and Iceball create damage of 5 health, damage to individual character can be set using tag. 
+- FireCircle and IceCircle create damage of 5 health, damage to individual character can be set using tag. 
+- Press “f” to do circle hit.
